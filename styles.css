@@ -33,6 +33,12 @@ h3 {
     padding-bottom: 10px;
     padding-right: 300px;
     padding-left: 400px;
+
+#pad-this {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
 }
 #background-colorandpadding {
     background-color: #EEEEEE;
